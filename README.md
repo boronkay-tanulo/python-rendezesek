@@ -1,0 +1,2 @@
+# python-rendezesek
+Python rendezések.
